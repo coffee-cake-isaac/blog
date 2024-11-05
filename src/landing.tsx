@@ -39,7 +39,7 @@ const PersonalWebsite: React.FC = () => {
             Hello! I like to make cool things with fun technologies. <br /><br />
             Currently building <a href="https://github.com/coffee-cake-isaac/dayly" className="text-indigo-600 hover:underline">Dayly</a>, a to-do app built with Flutter. <br /><br />
             Also working on an unannounced project and trying to help push the Ford platform on Openpilot.<br /><br />
-            Get in touch with me! I'd love to chat.
+            Get in touch with me! I'd love to chat!
           </p>
         </div>
       </main>
